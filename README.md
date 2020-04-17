@@ -31,7 +31,7 @@ Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebau
     C3  2µ2/250V (Visaton VIS FOLIE 5223 oder WIMA MKS4-250 2,2µ)
 
     R1  4R7 5W  (5W AXIAL 4,7)
-    R4, R5  4R7 5W  (9W AXIAL 4,7)
+    R4, R5  4R7 9W  (9W AXIAL 4,7)
     R6  22R 5W  (5W AXIAL 22)
     
     L1  1mH Luftspule 1mm Draht (Visaton VIS SP 5014)
