@@ -18,12 +18,12 @@ Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/2
 ###Stückliste Frequenzweiche
 
 Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton.
-´´´
- C1  10µ/250V (Visaton 5231 oder WIMA MKS4-250 10µ)
- C2  3µ3/250V (WIMA MKS4-250 3,3µ)
- C3  2µ2/250V (WIMA MKS4-250 2,2µ)
 
- R1  4R7 5W  (5W AXIAL 4,7)
- R4, R5  4R7 5W  (9W AXIAL 4,7)
- R6  22R 5W  (5W AXIAL 22)
-´´´
+  C1  10µ/250V (Visaton 5231 oder WIMA MKS4-250 10µ)
+  C2  3µ3/250V (WIMA MKS4-250 3,3µ)
+  C3  2µ2/250V (WIMA MKS4-250 2,2µ)
+
+  R1  4R7 5W  (5W AXIAL 4,7)
+  R4, R5  4R7 5W  (9W AXIAL 4,7)
+  R6  22R 5W  (5W AXIAL 22)
+
