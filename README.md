@@ -30,8 +30,15 @@ Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensio
     L1  1mH Luftspule 1mm Draht (Visaton SP 5014)
     L2  0,33mH Luftspule 0,6mm Draht (Visaton SP 4995)
 
-### Stückliste Holzzuschnitt (1 Box, 22mm MDF)
+### Stückliste Holzzuschnitt (für 1 Box, mit 22mm MDF)
 
     2x 300 x 450mm (Seiten)
     3x 200 x 300mm (Deckel, Boden, Versteifung innen)
     2x 200 x 406mm (Front, Rückwand)
+    
+### Stückliste Holzzuschnitt (für 1 Box, mit 19mm MDF)
+
+    2x 300 x 450mm (Seiten)
+    3x 200 x 300mm (Deckel, Boden, Versteifung innen)
+    2x 200 x 412mm (Front, Rückwand)
+
