@@ -17,7 +17,7 @@ Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/2
 
 Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. In Klammern angegeben sind die Reichelt-Artikelnummern. Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
 
-###Stückliste Frequenzweiche
+### Stückliste Frequenzweiche
 
     C1  10µ/250V (Visaton 5231 oder WIMA MKS4-250 10µ)
     C2  3µ3/250V (WIMA MKS4-250 3,3µ)
