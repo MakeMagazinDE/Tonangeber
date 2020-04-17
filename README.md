@@ -15,7 +15,9 @@ Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2020/2).
 
-Bitte beachten Sie geringfügige Änderungen gegenüber der abgedruckten Dimensionierung (siehe neues Schaltbild frequ_weiche_01 - Schematic.pdf). Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
+Bitte beachten Sie geringfügige Änderungen gegenüber der abgedruckten Dimensionierung (siehe neues Schaltbild frequ_weiche_01 - Schematic.pdf). Die WIMA-Kondensatoren sind deutlich preiswerter als die gleichen Werte von Visaton und haben in dieser Leistungsklasse keine Nachteile. 
+
+Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
 
 ### Lautsprecher-Chassis
 
@@ -24,16 +26,16 @@ Bitte beachten Sie geringfügige Änderungen gegenüber der abgedruckten Dimensi
 
 ### Stückliste Frequenzweiche
 
-    C1  10µ/250V (Visaton 5231 oder WIMA MKS4-250 10µ)
-    C2  3µ3/250V (WIMA MKS4-250 3,3µ)
-    C3  2µ2/250V (WIMA MKS4-250 2,2µ)
+    C1  10µ/250V (Visaton VIS FOLIE 5231 oder WIMA MKS4-250 10µ)
+    C2  3µ3/250V (Visaton VIS FOLIE 5225 oder WIMA MKS4-250 3,3µ)
+    C3  2µ2/250V (Visaton VIS FOLIE 5223 oder WIMA MKS4-250 2,2µ)
 
     R1  4R7 5W  (5W AXIAL 4,7)
     R4, R5  4R7 5W  (9W AXIAL 4,7)
     R6  22R 5W  (5W AXIAL 22)
     
-    L1  1mH Luftspule 1mm Draht (Visaton SP 5014)
-    L2  0,33mH Luftspule 0,6mm Draht (Visaton SP 4995)
+    L1  1mH Luftspule 1mm Draht (Visaton VIS SP 5014)
+    L2  0,33mH Luftspule 0,6mm Draht (Visaton VIS SP 4995)
     
     (Reichelt-Artikelnummern in Klammern)
 
