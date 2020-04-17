@@ -33,5 +33,5 @@ Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensio
 ### Stückliste Holzzuschnitt (1 Box, 22mm MDF)
 
     2x 300 x 450mm (Seiten)
-    2x 200 x 300mm (Deckel, Boden)
+    3x 200 x 300mm (Deckel, Boden, Versteifung innen)
     2x 200 x 406mm (Front, Rückwand)
