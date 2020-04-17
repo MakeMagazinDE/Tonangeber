@@ -17,7 +17,7 @@ Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/2
 
 ###Stückliste Frequenzweiche
 
-Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton.
+Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. In Klammern angegeben sind die Reichelt-Artikelnummern.
 
     C1  10µ/250V (Visaton 5231 oder WIMA MKS4-250 10µ)
     C2  3µ3/250V (WIMA MKS4-250 3,3µ)
@@ -26,4 +26,12 @@ Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensio
     R1  4R7 5W  (5W AXIAL 4,7)
     R4, R5  4R7 5W  (9W AXIAL 4,7)
     R6  22R 5W  (5W AXIAL 22)
+    
+    L1  1mH Luftspule 1mm Draht (Visaton SP 5014)
+    L2  0,33mH Luftspule 0,6mm Draht (Visaton SP 4995)
 
+### Stückliste Holzzuschnitt (1 Box, 22mm MDF)
+
+    2x 300 x 450mm (Seiten)
+    2x 200 x 300mm (Deckel, Boden)
+    2x 200 x 406mm (Front, Rückwand)
