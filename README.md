@@ -15,9 +15,9 @@ Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2019/5/1571592996373573).
 
-###Stückliste Frequenzweiche
+Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. In Klammern angegeben sind die Reichelt-Artikelnummern. Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
 
-Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. In Klammern angegeben sind die Reichelt-Artikelnummern.
+###Stückliste Frequenzweiche
 
     C1  10µ/250V (Visaton 5231 oder WIMA MKS4-250 10µ)
     C2  3µ3/250V (WIMA MKS4-250 3,3µ)
@@ -30,13 +30,13 @@ Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensio
     L1  1mH Luftspule 1mm Draht (Visaton SP 5014)
     L2  0,33mH Luftspule 0,6mm Draht (Visaton SP 4995)
 
-### Stückliste Holzzuschnitt (für 1 Box, mit 22mm MDF)
+### Stückliste Holzzuschnitt (für 1 Box, 22mm MDF)
 
     2x 300 x 450mm (Seiten)
     3x 200 x 300mm (Deckel, Boden, Versteifung innen)
     2x 200 x 406mm (Front, Rückwand)
     
-### Stückliste Holzzuschnitt (für 1 Box, mit 19mm MDF)
+### Stückliste Holzzuschnitt (für 1 Box, 19mm MDF)
 
     2x 300 x 450mm (Seiten)
     3x 200 x 300mm (Deckel, Boden, Versteifung innen)
