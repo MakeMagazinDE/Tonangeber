@@ -4,12 +4,13 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Tonangeber
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Sehr preiswerte Selbstbau-Box mit 17-cm-Tieftöner
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den Schatten stellen, sondern schlicht viel Klang für wenig Geld bieten. Wer noch MDF- oder Spanplattenreste herumliegen hat, kommt für weniger als 50 Euro zu einem durchaus wohlklingenden Lautsprecher-Paar.
+
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
