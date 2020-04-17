@@ -13,4 +13,4 @@ Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den
 
 ![Picture](https://github.com/MakeMagazinDE/Tonangeber/blob/master/aufm_gh.JPG) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2019/5/1571592996373573).
