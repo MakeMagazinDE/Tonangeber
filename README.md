@@ -8,14 +8,14 @@ Maker Media GmbH
 
 ### Sehr preiswerte Selbstbau-Box mit 17-cm-Tieftöner
 
-Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den Schatten stellen, sondern schlicht viel Klang für wenig Geld bieten. Wer noch MDF- oder Spanplattenreste herumliegen hat, kommt für weniger als 50 Euro zu einem durchaus wohlklingenden Lautsprecher-Paar.
+Unser Bauvorschlag für eine Selbstbau-Box mit rund 50W Belastbarkeit will keine High-End-Testsieger in den Schatten stellen, sondern schlicht viel Klang für wenig Geld bieten. Wer noch MDF- oder Spanplattenreste herumliegen hat, kommt für weniger als 50 Euro zu einem durchaus wohlklingenden Lautsprecher-Paar.
 
 
 ![Picture](https://github.com/MakeMagazinDE/Tonangeber/blob/master/aufm_gh.JPG) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2020/2).
 
-Bitte beachten Sie geringfügige Änderungen gegenüber der abgedruckten Dimensionierung (siehe neues Schaltbild frequ_weiche_01 - Schematic.pdf). Die WIMA-Kondensatoren sind deutlich preiswerter als die gleichen Werte von Visaton und haben in dieser Leistungsklasse keine Nachteile. 
+Bitte beachten Sie die Änderungen gegenüber der abgedruckten Frequenzweichen-Dimensionierung (siehe neues Schaltbild frequ_weiche_01 - Schematic.pdf). Die in der Stückliste angegebenen WIMA-Kondensatoren sind deutlich preiswerter als die gleichen Werte von Visaton und haben in dieser Leistungsklasse keine Nachteile. 
 
 Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
 
