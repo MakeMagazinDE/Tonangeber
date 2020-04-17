@@ -15,7 +15,7 @@ Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2019/5/1571592996373573).
 
-Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. In Klammern angegeben sind die Reichelt-Artikelnummern. Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
+Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensionierung. Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
 
 ### Lautsprecher-Chassis
 
@@ -34,6 +34,8 @@ Bitte beachten Sie geringfügige Anderungen gegenüber der abgedruckten Dimensio
     
     L1  1mH Luftspule 1mm Draht (Visaton SP 5014)
     L2  0,33mH Luftspule 0,6mm Draht (Visaton SP 4995)
+    
+    (Reichelt-Artikelnummern in Klammern)
 
 ### Stückliste Holzzuschnitt (für 1 Box, 22mm MDF)
 
