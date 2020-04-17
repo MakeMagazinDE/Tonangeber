@@ -13,7 +13,7 @@ Unser Bauvorschlag für eine Selbstbau-Box will keine High-End-Testsieger in den
 
 ![Picture](https://github.com/MakeMagazinDE/Tonangeber/blob/master/aufm_gh.JPG) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2019/5/1571592996373573).
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/20 ab Seite 98](https://www.heise.de/select/make/2020/2).
 
 Bitte beachten Sie geringfügige Änderungen gegenüber der abgedruckten Dimensionierung (siehe neues Schaltbild frequ_weiche_01 - Schematic.pdf). Die WIMA-Kondensatoren sind etwas preiswerter als die gleichen Werte von Visaton. Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebaut werden, es sind daher zwei Zuschnitt-Listen angegeben.
 
