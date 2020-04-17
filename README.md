@@ -51,3 +51,8 @@ Die Box kann mit 19 oder 22mm starkem MDF-Material (Baumarkt-Zuschnitt) aufgebau
     3x 200 x 300mm (Deckel, Boden, Versteifung innen)
     2x 200 x 412mm (Front, Rückwand)
 
+### Sonstiges
+    2 Ikea-Kissen "Inner" (Füllung)
+    2m Litze 1qmm zur Verdrahtung
+    Holzbrettchen für Frequenzweiche (Rest)
+    Reißbrettstifte Messing-Oberfläche
